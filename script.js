@@ -1,6 +1,6 @@
 
 const barang = [
-    {nama:"TWS", harga:250000, kategori:"elektronik", gambar:"TWS.JPG"},
+    {nama:"TWS", harga:250000, kategori:"elektronik", gambar:"TWS.jpg"},
     {nama:"Jam Tangan Digital", harga:450000, kategori:"elektronik", gambar:"JAM TANGAN.webp"},
     {nama:"Sepatu Sneakers", harga:400000, kategori:"fashion", gambar:"sepatu.webp"},
     {nama:"Hoodie Zipper", harga:250000, kategori:"fashion", gambar:"zipper.webp"},
